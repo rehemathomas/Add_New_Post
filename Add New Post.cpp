@@ -4,6 +4,9 @@
 #include <fstream> // Include file stream library for file operations
 
 using namespace std; // Use the standard namespace
+// Define a class named Post to represent a blog post
+class Post {
+
 
 
 
